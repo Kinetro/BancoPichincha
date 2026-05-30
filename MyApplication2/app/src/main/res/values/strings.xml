@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="banco_nombre">BANCO PICHINCHA</string>
+    <string name="version">Versión: 9.5.0</string>
+    <string name="mensaje_alerta">Cuida tus contraseñas,\nno las compartas con nadie.</string>
+    <string name="metodo_usuario">Usuario y\ncontraseña</string>
+    <string name="metodo_huella">Huella /\nFace ID</string>
+    <string name="metodo_pin">Pin de 6\ndígitos</string>
+    <string name="footer_ubicanos">Ubícanos</string>
+    <string name="footer_clave_digital">Clave digital</string>
+    <string name="footer_llamanos">Llámanos</string>
+    <string name="cambio_usuario">¿Ingresar con otro usuario?</string>
+</resources>
